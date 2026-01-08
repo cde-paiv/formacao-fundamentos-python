@@ -1,17 +1,13 @@
 # Formação — Fundamentos de Python (UFCD 10793 | 50h)
 
-Este repositório reúne os **exercícios, apontamentos e testes** feitos durante a formação certificada **Fundamentos de Python** (**UFCD 10793**, **50 horas**), organizada por módulos/temas.
-
-> ⚠️ Nota de privacidade: se fores anexar o certificado aqui, recomenda-se **remover/ocultar dados pessoais** (ex.: nº documento, QR, etc.) antes de publicar.
+Este repositório reúne os **exercícios, apontamentos e testes** feitos durante a formação certificada **Fundamentos de Python**, organizada por módulos/temas.
 
 ---
 
 ## 🎓 Sobre a formação
 
 - **UFCD / Código:** 10793  
-- **Nome:** Fundamentos de Python  
-- **Carga horária:** 50h  
-- **Área/Componente:** Tecnológica  
+- **Nome:** Fundamentos de Python
 - **Certificação:** Certificado de Qualificações (Passaporte Qualifica)
 
 ---
