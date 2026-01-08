@@ -1,0 +1,7 @@
+print("\nCalculadora Python\n")
+print("1-Soma de dois valores")
+print("2-Soma de dois valores complexos")
+print("2-Multiplicação de dois valores")
+print("3-Diferença de de dois valores")
+print("4-Subtração de dois valores\n")
+print("Opção:", end=" ")

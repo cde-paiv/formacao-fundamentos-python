@@ -1,0 +1,8 @@
+print(42)
+print(3.14)
+print(1 + 2j)
+print(True)
+print('Inicio…..')
+print('Mars', 'Jupiter', 'Saturn', sep='-', end='<')
+print('Uranus', 'Neptune', 'Pluto', sep='!')
+print('Fim')
