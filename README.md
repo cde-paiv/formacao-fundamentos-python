@@ -1,37 +1,36 @@
-# Formação — Fundamentos de Python (UFCD 10793 | 50h)
+# Training — Python Fundamentals (UFCD 10793 | 50h)
 
-Este repositório reúne os **exercícios, apontamentos e testes** feitos durante a formação certificada **Fundamentos de Python**, organizada por módulos/temas.
-
----
-
-## 🎓 Sobre a formação
-
-- **UFCD / Código:** 10793  
-- **Nome:** Fundamentos de Python
-- **Certificação:** Certificado de Qualificações (Passaporte Qualifica)
+This repository contains the **exercises, notes, and tests** completed during the certified training **Python Fundamentals** (**UFCD 10793**, **50 hours**), organized by modules/topics.
 
 ---
 
-## 📚 Conteúdo / Módulos (estrutura do repo)
+## 🎓 About the training
 
-A estrutura está organizada exatamente por pastas:
-
-- `1escrita_de_dados/` — output, prints, formatação, etc.
-- `2variaveis/` — tipos, atribuição, conversões, boas práticas
-- `3leitura_de_dados/` — input, validações básicas
-- `4estruturas_de_controle/` — if/elif/else, condições, lógica
-- `5funcoes/` — funções, parâmetros, retorno, reutilização
-- `6estruturas_iterativas/` — loops (for/while), range, controlo de fluxo
-- `7listas/` — listas, métodos, iteração, exercícios
-- `8dicionarios/` — dicionários, chaves/valores, métodos, casos práticos
-- `test_trabalho/` — testes, desafios e/ou trabalho final
+  
+- **Title:** Python Fundamentals  
+- **Certification:** Qualifications Certificate (Passaporte Qualifica)
 
 ---
 
-## 🚀 Como usar / executar
+## 📚 Content / Modules (repo structure)
 
-### 1) Clonar
+The project is organized exactly by folders:
+
+- `1escrita_de_dados/` — output, prints, formatting, etc.
+- `2variaveis/` — types, assignment, conversions, best practices
+- `3leitura_de_dados/` — input, basic validations
+- `4estruturas_de_controle/` — if/elif/else, conditions, logic
+- `5funcoes/` — functions, parameters, return values, reusability
+- `6estruturas_iterativas/` — loops (for/while), range, flow control
+- `7listas/` — lists, methods, iteration, exercises
+- `8dicionarios/` — dictionaries, keys/values, methods, practical cases
+- `test_trabalho/` — tests, challenges and/or final assignment
+
+---
+
+## 🚀 How to use / run
+
+### 1) Clone
 ```bash
-https://github.com/cde-paiv/formacao-fundamentos-python
+git clone https://github.com/cde-paiv/formacao-fundamentos-python.git
 cd formacao-fundamentos-python
-
