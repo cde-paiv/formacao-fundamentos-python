@@ -32,6 +32,6 @@ A estrutura está organizada exatamente por pastas:
 
 ### 1) Clonar
 ```bash
-git clone https://github.com/<teu-user>/<teu-repo>.git
-cd <teu-repo>
+https://github.com/cde-paiv/formacao-fundamentos-python
+cd formacao-fundamentos-python
 
